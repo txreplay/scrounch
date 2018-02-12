@@ -1,0 +1,8 @@
+{
+  "name": "scrounch",
+  "app_id": "2456c74b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
